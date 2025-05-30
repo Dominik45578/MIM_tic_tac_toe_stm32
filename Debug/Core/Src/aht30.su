@@ -1,0 +1,2 @@
+../Core/Src/aht30.c:8:19:AHT30_Init	24	static
+../Core/Src/aht30.c:22:19:AHT30_Read	48	static
