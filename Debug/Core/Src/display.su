@@ -1,0 +1,15 @@
+../Core/Src/display.c:15:6:start_history_browsing	16	static
+../Core/Src/display.c:24:6:stop_history_browsing	4	static
+../Core/Src/display.c:31:9:should_pause_measurements	16	static
+../Core/Src/display.c:39:6:display_gameBoard	16	static
+../Core/Src/display.c:45:6:display_clear	16	static
+../Core/Src/display.c:49:6:display_clearByColor	24	static
+../Core/Src/display.c:53:6:display_temp	40	static
+../Core/Src/display.c:64:6:display_hum	40	static
+../Core/Src/display.c:75:6:display_welcomeScreen	24	static
+../Core/Src/display.c:93:8:getXOCell	48	static
+../Core/Src/display.c:117:8:getXOCellFromDefault	40	static
+../Core/Src/display.c:120:6:display_drawXOCellFrame	40	static
+../Core/Src/display.c:127:6:display_drawXOBoardCell	40	static
+../Core/Src/display.c:130:6:display_clearXOBoardCell	40	static
+../Core/Src/display.c:133:6:display_fillXOBoardCell	40	static
